@@ -1,30 +1,31 @@
-# 🚀 TraderJoe BSC Sniper Bot 🚀
-![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
-Web3 TraderJoe Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
-### The first Avalanche Smart Chain sniper bot with Honeypot checker!  
-![Sniper](https://trading-tigers.com/logos/preview001.png)  
-# Infos
-This Tool only buys/sells with/to AVAX but it use Multi Hops to get allways the best Output!  
-Attention, You pay 0.77% Tax on your swap amount!  
+<h2 align="center">⭐️ Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
+<h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
+ 
+<h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
-# SUPPORT & HELP
-Visit our community for help or questions, on Discord or Github you can open tickets!
-<div><a href="https://discord.gg/Qc6y9kyCgU" > <img src="https://trading-tigers.com/logos/joinDiscord.png" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/TradingTigersChat" > <img src="https://trading-tigers.com/logos/joinTelegram.png" height="80"></a>
+![alt text](https://github.com/JDCORPCOMPANY/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID-/blob/main/AVAXJOESC2.png?raw=true "GIF application")")
+
+ 
+[![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Available](https://img.shields.io/badge/Available-WIN-yellow.svg?maxAge=259200)]()
+[![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 
 
-### Our bot is available on other blockchains:
-- [BSC - TraderJoe](https://github.com/Trading-Tiger/TraderJoe_BSC_Sniper_Bot)
-- [MATIC - QuickSwap](https://github.com/erra-tech/Quickswap_MATIC_Sniper_Bot)
-- Soon more!
+<h3 align="center">⭐️ Support Uniswap Matic BSC ⭐️</h3>
 
-### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)  
-![Sniper](https://trading-tigers.com/logos/AVAX-SNIPER.png)  
 
-# Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/TraderJoe_Avax_Sniper_Bot/releases), there you can download Windows executable.
+ 
+ 
+#### BSC SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
+#### Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
-### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
+
+
+
 
 # Install
 First of all, you need install Python3+
@@ -36,9 +37,20 @@ Debian/Ubuntu:
 $ sudo apt install python3 git cmake gcc
 Windows:
 You Need to install Visual Studio BuildTools & Python3
-```
 
-### Setup your Address and secret key in Settings.json.
+
+<H2>HOW TO USE</H2>
+### Setup your Address and secret key in Settings.json and Run gui.py
+
+#### Setup your wallet Address and private key in Settings.json
+1. An ethereum/bsc address.
+2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
+3. Run python3 sniper.py
+ 
+(Also you can use phrase key just use space between words)
+
+<H2>How Find Private Key</H2>
+https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
 Clone Repo:  
 ```shell
