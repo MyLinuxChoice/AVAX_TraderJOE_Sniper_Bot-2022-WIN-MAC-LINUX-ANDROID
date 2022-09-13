@@ -1,7 +1,7 @@
-<h2 align="center">⭐️ Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
+<h2 align="center">⭐️ AVAX TraderJOE Sniper Bot 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
  
-<h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
+<h3 align="center">⭐️ First SNIPER BOT on AVAX CHAIN for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
 ![alt text](https://github.com/JDCORPCOMPANY/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID-/blob/main/AVAXJOESC2.png?raw=true "GIF application")")
 
@@ -14,13 +14,13 @@
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 
 
-<h3 align="center">⭐️ Support Uniswap Matic BSC ⭐️</h3>
+<h3 align="center">⭐️ Support AVAX ⭐️</h3>
 
 
  
  
-#### BSC SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
-#### Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### AVAX SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
+#### Web3  Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
 
@@ -44,7 +44,7 @@ You Need to install Visual Studio BuildTools & Python3
 ### Setup your Address and secret key in Settings.json and Run gui.py
 
 #### Setup your wallet Address and private key in Settings.json
-1. An ethereum/bsc address.
+1. An ethereum/AVAX address.
 2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
 3. Run python3 sniper.py
  
