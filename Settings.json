@@ -1,0 +1,17 @@
+{
+    "metamask_address": "",
+    "metamask_private_key": "" ,
+
+    "RPC": "https://api.avax.network/ext/bc/C/rpc",
+
+    "GWEI_GAS": 50,
+
+    "MaxTXFeeAVAX": 0.05,
+
+    "Slippage": 30,
+
+    "MinLiquidityAVAX": 7,
+
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15
+}
