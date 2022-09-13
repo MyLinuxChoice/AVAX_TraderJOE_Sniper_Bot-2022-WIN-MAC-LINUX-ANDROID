@@ -37,6 +37,7 @@ Debian/Ubuntu:
 $ sudo apt install python3 git cmake gcc
 Windows:
 You Need to install Visual Studio BuildTools & Python3
+```
 
 
 <H2>HOW TO USE</H2>
