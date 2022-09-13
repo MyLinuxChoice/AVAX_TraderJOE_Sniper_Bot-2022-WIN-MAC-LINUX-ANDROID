@@ -1,6 +1,6 @@
 {
-    "metamask_address": "",
-    "metamask_private_key": "" ,
+    "metamask_address": "eth-avax-address",
+    "metamask_private_key": "eth-avax-privatekey" ,
 
     "RPC": "https://api.avax.network/ext/bc/C/rpc",
 
