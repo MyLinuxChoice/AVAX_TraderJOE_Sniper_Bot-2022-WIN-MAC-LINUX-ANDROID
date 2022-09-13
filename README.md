@@ -40,7 +40,7 @@ You Need to install Visual Studio BuildTools & Python3
 
 
 <H2>HOW TO USE</H2>
-### Setup your Address and secret key in Settings.json and Run gui.py
+### Setup your Address and secret key in Settings.json and Run sniper.py
 
 #### Setup your wallet Address and private key in Settings.json
 1. An ethereum/AVAX address.
