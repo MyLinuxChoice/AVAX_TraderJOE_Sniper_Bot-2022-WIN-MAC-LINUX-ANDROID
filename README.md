@@ -54,8 +54,8 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 Clone Repo:  
 ```shell
-git clone https://github.com/Trading-Tiger/TraderJoe_BSC_Sniper_Bot
-cd TraderJoe_BSC_Sniper_Bot
+git clone https://github.com/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID
+cd AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID
 ```
 
 Install Requirements:  
