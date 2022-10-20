@@ -1,6 +1,6 @@
 <h2 align="center">⭐️ AVAX TraderJOE Sniper Bot 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
-
+ 
 <h3 align="center">⭐️ First SNIPER BOT on AVAX CHAIN for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
  
 ![alt text](https://github.com/seeememagaiin/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID/blob/main/AVAXJOESC2.png?raw=true "GIF application")")
