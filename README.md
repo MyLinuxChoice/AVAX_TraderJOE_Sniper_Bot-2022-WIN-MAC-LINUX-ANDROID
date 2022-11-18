@@ -12,7 +12,7 @@
 [![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
  
-   
+    
 <h3 align="center">⭐️ Support AVAX ⭐️</h3>
 
 ![alt text](https://github.com/seeememagaiin/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID/blob/main/AVAXJOESC.png?raw=true "GIF application")")
