@@ -11,7 +11,7 @@
 [![Available](https://img.shields.io/badge/Available-WIN-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
- 
+  
     
 <h3 align="center">⭐️ Support AVAX ⭐️</h3>
 
