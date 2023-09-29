@@ -3,7 +3,7 @@ import argparse, json
 from time import sleep
 from halo import Halo
 from style import style
-
+ 
 ascii = """
 
                                   ____.               
