@@ -16,7 +16,7 @@
 <h3 align="center">⭐️ Support AVAX ⭐️</h3>
 
 ![alt text](https://github.com/seeememagaiin/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID/blob/main/AVAXJOESC.png?raw=true "GIF application")")
- 
+  
 a
 #### AVAX SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
 #### Web3  Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
